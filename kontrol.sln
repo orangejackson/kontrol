@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kontrol", "kontrol\kontrol.pyproj", "{8F0FE775-68F8-47DA-A9DA-D07602384DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0FE775-68F8-47DA-A9DA-D07602384DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0FE775-68F8-47DA-A9DA-D07602384DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5A95859-47F1-416B-8D7C-CBA8476A2EC8}
+	EndGlobalSection
+EndGlobal
